@@ -42,7 +42,7 @@ def build_result(task_id, output):
 
 checkin = build_checkin("agent-001", "WORKSTATION-1")
 task = build_task("whoami")
-result = build_result(task["id"], "daniel\\user")
+result = build_result(task["id"], "frost\\user")
 
 print(f"  Checkin: {json.dumps(checkin, indent=2)}")
 print(f"  Task:    {json.dumps(task)}")

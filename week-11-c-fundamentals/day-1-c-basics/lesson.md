@@ -92,7 +92,7 @@ scanf("%d", &age);  // & = "address of"
 Python              C
 ─────────           ─────────
 x = 42              int x = 42;
-name = "Dan"        char name[] = "Dan";
+name = "Frost"      char name[] = "Frost";
 print(x)            printf("%d", x);
 if x > 0:           if (x > 0) {
     print("yes")        printf("yes");
