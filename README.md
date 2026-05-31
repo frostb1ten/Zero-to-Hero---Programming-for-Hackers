@@ -2,7 +2,7 @@
 
 **26 weeks. Python → C → Assembly → Kernel. Zero to writing exploits.**
 
-A self-built curriculum for learning to code with one goal: offensive security mastery. Not a tutorial collection — a single progressive path where every day builds on the last and every project is a stepping stone toward the final capstone.
+An AI built curriculum for learning to code with one goal: offensive security mastery. Not a tutorial collection — a single progressive path where every day builds on the last and every project is a stepping stone toward the final capstone.
 
 ---
 
